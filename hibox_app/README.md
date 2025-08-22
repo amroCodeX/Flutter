@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+There is a file above assets containing pictures of the project
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
